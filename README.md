@@ -2,11 +2,7 @@
 
 <br/>
 
-<<<<<<< HEAD
-## [1. Streamlit Service](https://forestfirepjt.streamlit.app/  "Streamlit Link")<br/>
-=======
 ## [1. Streamlit Service](https://forestfirepjt.streamlit.app/ "Streamlit Link")<br/>
->>>>>>> eb81afc37889a2cfcfdd349aac4ba54e7060311e
 
 ## [2. Personal Code](https://github.com/BaeSang1/Forest_Fire_PJT/tree/main/file/code/ "Code Link")<br/>
 
@@ -36,18 +32,13 @@
 <br/>
 
 ## ✔ ERD
-<<<<<<< HEAD
-
 =======
->>>>>>> eb81afc37889a2cfcfdd349aac4ba54e7060311e
+
 ![image](https://github.com/BaeSang1/Forest_Fire_PJT/tree/main/file/img/ERD.png)
 <br/>
 
 ## ✔ Flow Chart
-<<<<<<< HEAD
-
 =======
->>>>>>> eb81afc37889a2cfcfdd349aac4ba54e7060311e
 ![image](https://github.com/BaeSang1/Forest_Fire_PJT/tree/main/file/img/flowchart.png)
 <br/>
 
@@ -68,10 +59,9 @@
 
 ![image1](https://github.com/BaeSang1/Forest_Fire_PJT/tree/main/file/img/home_img.png)
 
-<<<<<<< HEAD
 =======
 ![image1](https://github.com/BaeSang1/Forest_Fire_PJT/tree/main/file/img/home_img.png)
->>>>>>> eb81afc37889a2cfcfdd349aac4ba54e7060311e
+
 - **EDA**
     - 강원도 기상 정보를 바탕으로 강원도 지역 9 분할 과정
         - 강원지방기상청 관할 예·특보구역에 따라 12 분할
@@ -79,10 +69,9 @@
 
 ![image2](https://github.com/BaeSang1/Forest_Fire_PJT/tree/main/file/img/EDA_img.png)
 
-<<<<<<< HEAD
 =======
 ![image2](https://github.com/BaeSang1/Forest_Fire_PJT/tree/main/file/img/EDA_img.png)
->>>>>>> eb81afc37889a2cfcfdd349aac4ba54e7060311e
+
 - **STAT**
     - 기상요인을 고려해 강원도 지역을 9개로 분할한 각 지역에 대해 통계분석
         - Python 환경에서 통계분석에 한계가 있어 SPSS 에서 진행
@@ -91,11 +80,10 @@
 ![image3](https://github.com/BaeSang1/Forest_Fire_PJT/tree/main/file/img/stat_img1.png)
 ![image4](https://github.com/BaeSang1/Forest_Fire_PJT/tree/main/file/img/stat_img2.png)
 
-<<<<<<< HEAD
 =======
 ![image3](https://github.com/BaeSang1/Forest_Fire_PJT/tree/main/file/img/stat_img1.png)
 ![image4](https://github.com/BaeSang1/Forest_Fire_PJT/tree/main/file/img/stat_img2.png)
->>>>>>> eb81afc37889a2cfcfdd349aac4ba54e7060311e
+
 - **ML**
     - 기상요인을 고려해 강원도 지역을 9개로 분할한 각 지역에 대해 ML 모델 생성
     - 각 지역별로 LogisticRegression / XGBoost / LightGBM 모델 생성
@@ -103,10 +91,10 @@
 
 ![image5](https://github.com/BaeSang1/Forest_Fire_PJT/tree/main/file/img/model_img.png)
 
-<<<<<<< HEAD
+
 =======
 ![image5](https://github.com/BaeSang1/Forest_Fire_PJT/tree/main/file/img/model_img.png)
->>>>>>> eb81afc37889a2cfcfdd349aac4ba54e7060311e
+
 - **DL**
     - EfficentNet-B7 모델을 사용한 산불 이미지 분류 모델
     - 6개의 Class 에 대해 모델 훈련
